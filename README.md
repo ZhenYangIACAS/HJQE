@@ -12,7 +12,7 @@ Please cite the following paper if you found the resources in this repository us
 ```bibtex
 @article{yang2021HJQE,
   title={Rethink about the Word-level Quality Estimation for Machine Translation from Human Judgement},
-  author={Yang, Zhen, Meng, Fandong, Yuanmeng Yan, and Zhou, Jie},
+  author={Yang Zhen, Meng Fandong, Yuanmeng Yan, and Zhou, Jie},
   year={2022}
 }
 ```
