@@ -11,7 +11,7 @@ HJQE contains the corpus for two translation directions: English-German and Engl
 Please cite the following paper if you found the resources in this repository useful.
 ```bibtex
 @article{yang2021HJQE,
-  title={Rething about the Word-level Quality Estimation for Machine Translation from Human Judgement},
+  title={Rethink about the Word-level Quality Estimation for Machine Translation from Human Judgement},
   author={Yang, Zhen, Meng, Fandong, Yuanmeng Yan, and Zhou, Jie},
   year={2022}
 }
